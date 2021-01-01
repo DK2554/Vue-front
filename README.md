@@ -21,6 +21,7 @@ ITJOBGO
 테스트용 관리자 아이디 : admin@kh.com / qwe123QWE!@#
 일반회원 아이디 : 1234@gmail.com / qwe123QWE!@#
 
+시연 동영상(YouTube) : https://youtu.be/C5a7ViEKL10
 
 [Live Demo](http://rclass.iptime.org:9999/20AM_ITJOBGO_BOOT_FINAL) : 배포용 사이트로 연결됩니다.<br>
 [Database](https://www.erdcloud.com/d/bkmQdWDnMjBorEJts) : ERD클라우드로 연결됩니다.
