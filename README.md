@@ -25,7 +25,7 @@ ITJOBGO
 
 [Live Demo](http://rclass.iptime.org:9999/20AM_ITJOBGO_BOOT_FINAL) : 배포용 사이트로 연결됩니다.<br>
 [Database](https://www.erdcloud.com/d/bkmQdWDnMjBorEJts) : ERD클라우드로 연결됩니다.    
-[PDF](https://github.com/DK2554/Vue-front/blob/main/iTJOBGO%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) : PDF 
+[PDF](https://github.com/DK2554/Vue-front/blob/main/iTJOBGO%20%EC%B5%9C%EC%A2%85%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) : PDF파일입니다.
 
 ## Built With
 
